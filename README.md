@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋 Hello, I'm Gustav!
 
-<!--
-**Gustavke/gustavke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Located in Stockholm, Sweden.<br>
+🎓 Currently studying IT at [KTH University](https://www.kth.se/) in Kista, Stockholm.  
+🌟 Passionate about tech, constantly curious and driven to learn more.
 
-Here are some ideas to get you started:
+## 🚀 What You'll Find Here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **University Projects:** A collection of assignments and projects from my coursework, reflecting my skills and knowledge in various areas of IT.
+
+## 📫 Let's Connect
+
+If you're interested in collaborating or simply want to connect, feel free to reach out to me at [gustavke@kth.se](mailto:gustavke@kth.se).
